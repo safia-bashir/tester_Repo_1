@@ -1,7 +1,6 @@
 one 
 two
-three
-three
+three3
 four
 five
 six
